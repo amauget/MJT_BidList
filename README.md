@@ -1,17 +1,17 @@
 # A Bidder Contact List Automated for my Current Employer
 
 ### Background:
-The general contractor that I work for sends personalized invitations to bid to dozens if not hundreds of subcontractors. In this document is a template that shows all contacts. The point of this sheet to to record whether companies have received an invite to bid, if they’re planning to bid, and when they were contacted. 
+The general contractor that I work for sends personalized invitations to bid to dozens if not hundreds of subcontractors. The point of this sheet to to record whether companies have received an invitation to bid, whether they're planning to bid, and when they were contacted. 
 ### Why Excel/VBA?
-The company is set on only using excel to not only record all contacts, but to record whether they are interested in bidding. This is a template that is used every time a project comes out to bid.
+The company is set on only using excel, as it's a software that the team members are comfortable using. This is a template that is copied every time a project comes out to bid.
 
 
 ## The major problems:
 ### Time Consuming:
-The original was completely manual. If you wanted to send an email, you had to copy each email, 1 by 1, and paste into an outlook email. An announcement email would easily take 15 minutes of copying and pasting before sending. Copying multiple emails often lead to the copying of hidden cells.
+The original spreadsheet was completely manual. If a user wanted to send a mass email, each email was to be copied 1 by 1, and pasted into an outlook email. An announcement email would easily take 15 minutes of copying and pasting before being ready to send. Copying multiple emails often lead to the copying of hidden cells.
 
 ### Inconsistent:
-The manual method also lacked consistency. People would be overlooked during the copy/paste process and not receive vital announcements. Users often wouldn’t record the date of contact, or indicate whether an invite has been sent (highlight the row in <ins>***yellow***</ins>)
+The manual method also lacked consistency. People would be overlooked during the copy/paste process and not receive vital announcements. Users often wouldn’t record the date of contact, or indicate whether an invite had been sent (highlight the row in <ins>***yellow***</ins>)
 
 ## The Fix:
 ### Add selector, and an Output Page:

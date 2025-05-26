@@ -22,4 +22,4 @@ Some team members prefer to send personalized emails that use the contact’s na
 
 Select All & De-Select All Buttons:
 If all desired parties have been selected before, the “Re-Select-Subs” button can be selected to target all subs that need an email. If someone is highlighted <ins>***red***</ins>, they’re not interested in bidding, and will not be sent an email during the select all process. Time stamps will update when select all is used.
-![image](https://github.com/user-attachments/assets/41f5415b-e840-4911-b203-5ea1e4ae02ea)
+

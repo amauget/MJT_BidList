@@ -1,5 +1,5 @@
 # A Bidder Contact List Automated for my Current Employer
-
+NOTE: All actual contact info have been removed for the sake of confidentiality. The rows remain to represent the sheer size of this bid list.
 ### Background:
 The general contractor that I work for sends personalized invitations to bid to dozens if not hundreds of subcontractors. The point of this sheet to to record whether companies have received an invitation to bid, whether they're planning to bid, and when they were contacted. 
 ### Why Excel/VBA?

@@ -1,4 +1,4 @@
-# MJT_BidList
+# A Bidder Contact List Automated for my Current Employer
 
 # A Brief Explanation of this Document
 ### Background:

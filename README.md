@@ -1,6 +1,5 @@
 # A Bidder Contact List Automated for my Current Employer
 
-# A Brief Explanation of this Document
 ### Background:
 The general contractor that I work for sends personalized invitations to bid to dozens if not hundreds of subcontractors. In this document is a template that shows all contacts. The point of this sheet to to record whether companies have received an invite to bid, if they’re planning to bid, and when they were contacted. 
 ### Why Excel/VBA?
